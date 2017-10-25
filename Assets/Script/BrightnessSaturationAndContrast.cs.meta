@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6b8e8564dca340b47b0311631dfaad89
+timeCreated: 1508934053
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BriSatConShader: {fileID: 4800000, guid: 99a4a2c34cf66154e9086dc450ee0603, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
