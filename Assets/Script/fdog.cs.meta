@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: 6cc0f170d5fbbcf49a5d2ee9bfd27569
-timeCreated: 1508931613
+timeCreated: 1508936754
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - fdogShader: {fileID: 4800000, guid: 66212ba5bea9e714c82a9910298fd095, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
